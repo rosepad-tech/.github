@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/4479171/164605630-498d14fb-8522-4d04-992c-8873117b0ede.png)
 
 🌹**RosePad** is a Premium Launchpad with DEX and NFTs on Oasis Network. It is a go-to platform for fundraising, trading and connecting to Oasis community. 
 
