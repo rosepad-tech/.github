@@ -12,7 +12,7 @@ For project owners, we will connect you to communities within Oasis ecosystem, p
 
 ## General Information
 - 🌐 [Landing Page](https://rosepad.io/)
-- 🎯 [Pitch Deck](https://docsend.com/view/s/44ibw8987nkge9rx)
+- 🎯 [Pitch Deck](https://docsend.com/view/yzgr6dxvmizcv7j7)
 - ⌨️ [Github](https://github.com/rosepad-tech)
  
 ## Follow our Socials
